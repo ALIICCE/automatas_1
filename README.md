@@ -1,0 +1,1 @@
+# automatas_1
